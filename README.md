@@ -4,7 +4,7 @@ Based on [publickly available](https://www.kaggle.com/datasets/kylegraupe/skin-c
 
 
 # Dataset
-The [Skin Cancer Binary Classification Dataset](https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset) contains several pictures with different sizes such as the following ones (one of it Non_Cancer - guess which one):
+The [Skin Cancer Binary Classification Dataset](https://www.kaggle.com/datasets/kylegraupe/skin-cancer-binary-classification-dataset) contains several pictures with different sizes such as the following ones (one of it Non_Cancer - guess which one - impossible without "pre-training" yourself about the field as a dermatologist):
 
 <img src="https://github.com/AdamAdonyi/SkinCancerPrediction/blob/main/1051-3(94).jpg" width="50%" height="50%"/> |
 <img src="https://github.com/AdamAdonyi/SkinCancerPrediction/blob/main/669-3.JPG" width="45%" height="45%"/>
